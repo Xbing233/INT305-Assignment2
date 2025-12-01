@@ -6,7 +6,8 @@ dependencies:
   - blas=1.0=mkl
   - ca-certificates=2019.1.23=0
   - certifi=2019.3.9=py27_0
-  - cffi=1.12.2=py27h2e261b9_1
+  # - cffi=1.12.2=py27h2e261b9_1
+  - cffi=1.12.3
   - cudatoolkit=9.0=h13b8566_0
   - freetype=2.9.1=h8a8886c_1
   - intel-openmp=2019.1=144
